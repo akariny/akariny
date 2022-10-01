@@ -5,16 +5,23 @@
   - 😄 Tenho 22 anos, aquariana, Maranhense e estou a pouco mais de 1 ano estudando na área de tecnologia.
   - 🔭 Completei um curso de Técnico em Informática na FAETEC onde tive meu primeiro contato com programação, desde então sigo estudando na área.
   - 🌱 Atualmente faço parte do programa Oracle Next Education.
-  - 👯 Meus objetivo é ingressar profissionalmente na área como Dev. aprendendo cada vez mais!
+  - 👯 Meu objetivo é ingressar profissionalmente na área como Dev. aprendendo cada vez mais!
   - ⚡ Curiosidades: Amo fotografia e design gráfico! 
 
 ### Ferramentas e Tecnologias:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+</div>
+
+### Próximos tópicos de estudo:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
 </div>
 
 ### Contatos:
@@ -27,8 +34,8 @@
 ### Insights
 <div>
 <a href="https://github.com/akariny">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akariny&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=akariny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akariny&layout=compact&langs_count=7&theme=dracula"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=akariny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
