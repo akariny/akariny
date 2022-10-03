@@ -5,7 +5,7 @@
   - 😄 Tenho 22 anos, aquariana, Maranhense e estou a pouco mais de 1 ano estudando na área de tecnologia.
   - 🔭 Completei um curso de Técnico em Informática na FAETEC onde tive meu primeiro contato com programação, desde então sigo estudando na área.
   - 🌱 Atualmente faço parte do programa Oracle Next Education.
-  - 👯 Meu objetivo é ingressar profissionalmente na área como Dev. aprendendo cada vez mais!
+  - 👯 Meu objetivo é ingressar profissionalmente na área como Dev. Front-end ou Full stack!
   - ⚡ Curiosidades: Amo fotografia e design gráfico! 
 
 ### Ferramentas e Tecnologias:
