@@ -1,12 +1,21 @@
-## Hello World 👋 Me chamo Ana Kariny :)
+## Hello World 👋 Eu sou a Ana Kariny :)
 ## Bem vindo(a) ao meu perfil!
 ### Sobre Mim:
+ <div>
+    <div>
+      <ul>
+        <li>😄 Tenho 22 anos, aquariana, Maranhense e estou a pouco mais de 1 ano estudando na área de tecnologia.</li>
+        <li>🔭 Completei um curso de Técnico em Informática na FAETEC onde tive meu primeiro contato com programação, desde então sigo estudando na área.</li>
+        <li>🌱 Atualmente faço parte do programa Oracle Next Education.</li>
+        <li>👯 Meu objetivo é ingressar profissionalmente na área como Dev. Front-end ou Full stack!</li>
+        <li>⚡ Curiosidades: Amo fotografia e design gráfico!</li>
+      </ul>
+    </div>
+    <div>
+        <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/f33ba24a235a4eed8b20aacd18130b5a.gif" width="100" height="100" border="0" alt="Kariny-icon" />
+    </div>
+</div>
 
-  - 😄 Tenho 22 anos, aquariana, Maranhense e estou a pouco mais de 1 ano estudando na área de tecnologia.
-  - 🔭 Completei um curso de Técnico em Informática na FAETEC onde tive meu primeiro contato com programação, desde então sigo estudando na área.
-  - 🌱 Atualmente faço parte do programa Oracle Next Education.
-  - 👯 Meu objetivo é ingressar profissionalmente na área como Dev. Front-end ou Full stack!
-  - ⚡ Curiosidades: Amo fotografia e design gráfico! 
 
 ### Ferramentas e Tecnologias:
 <div>
@@ -29,7 +38,7 @@
 <a href="https://www.instagram.com/akariny.6/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:anakariny10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anakariny/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+
 
 ### Insights
 <div>
